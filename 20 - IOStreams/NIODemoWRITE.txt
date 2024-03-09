@@ -1,0 +1,11 @@
+
+Hello Rishikesh, this is byte contents!!
+
+Hello Rishikesh, these are character lines..
+Line 1
+Line 2
+Line 3
+Line 4
+
+
+Hello Rishikesh, I am writing using BufferedWriter.
